@@ -11,16 +11,15 @@ This Power BI project, `CrimeDashboardNew.pbix`, presents a comprehensive visual
   - Closure Rate (%)
 
 - **Visualizations**:
-  - 📈 Time-series chart for crime trends
+  - 📈 Decomposition Tree for crime trends
   - 🍩 Donut chart for weapon usage distribution
-  - 🗺️ Map/heatmap to visualize crime by location
-  - 📌 Bar charts for crime types and frequencies
+  - 🗺️ Scatter Chart to visualize total crime by location
+  - 📌 Bar chart for city and count of weapon used
 
 - **Filters & Slicers**:
-  - Time range
-  - Crime types
-  - Status (Open/Closed)
-  - Weapon used
+  - Q & A
+  - City
+  - Victim Gender
 
 ## 🧠 Purpose
 
